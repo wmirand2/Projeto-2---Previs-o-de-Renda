@@ -1,4 +1,4 @@
-# Projeto 2 - Previsâo de Renda
+# Projeto 2 - Previsão de Renda
 
 Projeto desenvolvido utilizando o streamlit.
 
